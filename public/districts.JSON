@@ -1,0 +1,522 @@
+[
+    {
+      "areaId": 1,
+      "areaName": "Barguna",
+      "division": "Barisal",
+      "established": 1969,
+      "area": 1831,
+      "population": 882,
+      "travelCost": 5000,
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/%E0%A6%AC%E0%A6%BF%E0%A6%AC%E0%A6%BF_%E0%A6%9A%E0%A6%BF%E0%A6%A8%E0%A6%BF_%E0%A6%90%E0%A6%A4%E0%A6%BF%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%95_%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80_%E0%A6%AE%E0%A6%B8%E0%A6%9C%E0%A6%BF%E0%A6%A6.jpg/1024px-%E0%A6%AC%E0%A6%BF%E0%A6%AC%E0%A6%BF_%E0%A6%9A%E0%A6%BF%E0%A6%A8%E0%A6%BF_%E0%A6%90%E0%A6%A4%E0%A6%BF%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%95_%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80_%E0%A6%AE%E0%A6%B8%E0%A6%9C%E0%A6%BF%E0%A6%A6.jpg"
+    },
+    {
+      "areaId": 2,
+      "areaName": "Barisal",
+      "division": "Barisal",
+      "established": 1797,
+      "area": 2785,
+      "population": 2291,
+      "travelCost": 7000,
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%AF%E0%A6%BC_%E0%A6%97%E0%A7%81%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A7%87%E0%A6%B0_%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BE_%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BF%E0%A6%B0_13.jpg/1200px-%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%AF%E0%A6%BC_%E0%A6%97%E0%A7%81%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A7%87%E0%A6%B0_%E0%A6%AE%E0%A6%A8%E0%A6%B8%E0%A6%BE_%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BF%E0%A6%B0_13.jpg"
+    },
+    {
+      "areaId": 3,
+      "areaName": "Bhola",
+      "division": "Barisal",
+      "established": 1984,
+      "area": 3403,
+      "population": 1758,
+      "travelCost": 6000,
+      "flag": "http://touristplace.bangladeshinformation.info/wp-content/uploads/sites/7/2018/11/Bhola.jpg"
+    },
+    {
+      "areaId": 4,
+      "areaName": "Jhalokati",
+      "division": "Barisal",
+      "established": 1984,
+      "area": 749,
+      "population": 596,
+      "travelCost": 6500,
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Kirtipasa_Land_lord%27s_Home_%282%29.jpg/1200px-Kirtipasa_Land_lord%27s_Home_%282%29.jpg"
+    },
+    {
+      "areaId": 5,
+      "areaName": "Patuakhali",
+      "division": "Barisal",
+      "established": 1969,
+      "area": 3221,
+      "population": 1517,
+      "travelCost": 7500,
+      "flag": "https://touristplace.bangladeshinformation.info/wp-content/uploads/sites/7/2018/11/piroj-723x480.jpg"
+    },
+    {
+      "areaId": 6,
+      "areaName": "Pirojpur",
+      "division": "Barisal",
+      "established": 1984,
+      "area": 1308,
+      "population": 1103,
+      "travelCost": 7000,
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Floating_Agricultural_Field.JPG/1200px-Floating_Agricultural_Field.JPG"
+    },
+    {
+      "areaId": 7,
+      "areaName": "Bandarban",
+      "division": "Chittagong",
+      "established": 1981,
+      "area": 4479,
+      "population": 383,
+      "travelCost": 8000,
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Buddha_Dhatu_Zadi01.jpg/1200px-Buddha_Dhatu_Zadi01.jpg"
+    },
+    {
+      "areaId": 8,
+      "areaName": "Brahmanbaria",
+      "division": "Chittagong",
+      "established": 1984,
+      "area": 1927,
+      "population": 2808,
+      "travelCost": 2000,
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Bariura_Old_Bridge_9.jpg/1200px-Bariura_Old_Bridge_9.jpg"
+    },
+    {
+      "areaId": 9,
+      "areaName": "Chandpur",
+      "division": "Chittagong",
+      "established": 1984,
+      "area": 1704,
+      "population": 2393,
+      "travelCost": 4000,
+      "flag": "https://touristplace.bangladeshinformation.info/wp-content/uploads/sites/7/2018/11/shylet.jpg"
+    },
+    {
+      "areaId": 10,
+      "areaName": "Chittagong",
+      "division": "Chittagong",
+      "established": 1666,
+      "area": 5283,
+      "population": 7509,
+      "travelCost": 2500,
+      "flag": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/11/58/9f/panoramic-beauty-of-kaptai.jpg?w=1200&h=-1&s=1"
+    },
+    {
+      "areaId": 11,
+      "areaName": "Comilla",
+      "division": "Chittagong",
+      "established": 1790,
+      "area": 3085,
+      "population": 5304,
+      "travelCost": 1500,
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/2/27/Comilla_City_%284%29.jpeg"
+    },
+    {
+      "areaId": 12,
+      "areaName": "Cox's Bazar",
+      "division": "Chittagong",
+      "established": 1984,
+      "area": 2492,
+      "population": 2275,
+      "travelCost": 5500,
+      "flag": "https://images.unsplash.com/photo-1590603740183-980e7f6920eb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y294JTIwYmF6YXJ8ZW58MHx8MHx8&w=1000&q=80"
+    },
+    {
+      "areaId": 13,
+      "areaName": "Feni",
+      "division": "Chittagong",
+      "established": 1984,
+      "area": 928,
+      "population": 1420,
+      "travelCost": 1500,
+      "flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ94z653vnxgEwDYS0oUUyS9ys-XN9poUNZALSqF3sn0sVv7tms0VsI95rZ_KGEX3ic52M&usqp=CAU"
+    },
+    {
+      "areaId": 14,
+      "areaName": "Khagrachhari",
+      "division": "Chittagong",
+      "established": 1983,
+      "area": 2700,
+      "population": 608,
+      "travelCost": 4500,
+      "flag": "https://alchetron.com/cdn/khagrachhari-district-92dc55f8-36cd-4d15-8d09-afb73ad5080-resize-750.jpeg"
+    },
+    {
+      "areaId": 15,
+      "areaName": "Lakshmipur",
+      "division": "Chittagong",
+      "established": 1984,
+      "area": 1456,
+      "population": 1711,
+      "travelCost": 2800,
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Guthiya_mosque_Ri_palash_03.jpg/1200px-Guthiya_mosque_Ri_palash_03.jpg"
+    },
+    {
+      "areaId": 16,
+      "areaName": "Noakhali",
+      "division": "Chittagong",
+      "established": 1821,
+      "area": 3601,
+      "population": 3072,
+      "travelCost": 3000,
+      "flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmQCKN9s2K35_X253h46_GAlpMHa7i0g951PkCi0gS6IEc3jZD2I6_bZpdhY22PTR5c88&usqp=CAU"
+    },
+    {
+      "areaId": 17,
+      "areaName": "Rangamati",
+      "division": "Chittagong",
+      "established": 1983,
+      "area": 6116,
+      "population": 596,
+      "travelCost": 5500,
+      "flag": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/48/d7/a9/star-land.jpg?w=500&h=300&s=1"
+    },
+    {
+      "areaId": 18,
+      "areaName": "Bagerhat",
+      "division": "Khulna",
+      "established": 1984,
+      "area": 3959,
+      "population": 1461,
+      "travelCost": 4500,
+      "flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLi0SKK8StaCGLHThrQ93GWhcuQuJ8iKYBaQNAqQ-C-lJ3SJjNBeEB9YU3HCZf1JHGL5o&usqp=CAU"
+    },
+    {
+      "areaId": 19,
+      "areaName": "Chuadanga",
+      "division": "Khulna",
+      "established": 1984,
+      "area": 1177,
+      "population": 1123,
+      "travelCost": 5500,
+      "flag": "https://touristplace.bangladeshinformation.info/wp-content/uploads/sites/7/2018/11/Chuadanga-1.jpg"
+    },
+    {
+      "areaId": 20,
+      "areaName": "Jessore",
+      "division": "Khulna",
+      "established": 1781,
+      "area": 2567,
+      "population": 2742,
+      "travelCost": 4200,
+      "flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzRWeQiHUJ75SXFiu_OY3gRbEcuvAvbalrO1iXOkOBsQlz4UyBa00S43EOGX-m5cYTNBg&usqp=CAU"
+    },
+    {
+      "areaId": 21,
+      "areaName": "Jhenaidah",
+      "division": "Khulna",
+      "established": 1984,
+      "area": 1756,
+      "population": 1517,
+      "travelCost": 7500,
+      "flag": "https://ecdn.banglatribune.com/contents/cache/images/825x0x1/uploads/media/2020/01/09/12cdf213e1e1eb1309da4265951fd9ee-5e16bf25074f7.jpg"
+    },
+    {
+      "areaId": 22,
+      "areaName": "Khulna",
+      "division": "Khulna",
+      "established": 1882,
+      "area": 4394,
+      "population": 2294,
+      "travelCost": 7000,
+      "flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLGWW4Z-527d-BZT0dLiC69BFer5tlscxAy11pB2AlxVjuLPg1ksCTTN4HvVhKMLebNaU&usqp=CAU"
+    },
+    {
+      "areaId": 23,
+      "areaName": "Kushtia",
+      "division": "Khulna",
+      "established": 1947,
+      "area": 1601,
+      "population": 1933,
+      "travelCost": 4600,
+      "flag": "https://i1.wp.com/www.alonelytraveler.com/wp-content/uploads/2010/05/Jhaudia-Shahi-Mosque-Kushtia-3.jpg?resize=800%2C600&ssl=1"
+    },
+    {
+      "areaId": 24,
+      "areaName": "Magura",
+      "division": "Khulna",
+      "established": 1984,
+      "area": 1049,
+      "population": 913,
+      "travelCost": 5000,
+      "flag": "https://1.bp.blogspot.com/-f5a8qQkzEJM/Xv4UFy8ClpI/AAAAAAAADIk/hdFYVL4nqUIir6cnRRUQCQ0pOI5rtfNXwCPcBGAsYHg/s1600/magura.jpg"
+    },
+    {
+      "areaId": 25,
+      "areaName": "Meherpur",
+      "division": "Khulna",
+      "established": 1984,
+      "area": 716,
+      "population": 652,
+      "travelCost": 4000,
+      "flag": "https://wp.bssnews.net/wp-content/uploads/2019/04/Mujibnagar.jpg"
+    },
+    {
+      "areaId": 26,
+      "areaName": "Narail",
+      "division": "Khulna",
+      "established": 1984,
+      "area": 990,
+      "population": 715,
+      "travelCost": 2500,
+      "flag": "https://dailyasianage.com/library/2019/11/20/1574277902_3.jpg"
+    },
+    {
+      "areaId": 27,
+      "areaName": "Satkhira",
+      "division": "Khulna",
+      "established": 1984,
+      "area": 3858,
+      "population": 1973,
+      "travelCost": 6500,
+      "flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2tZ9G85D0yDZoQDDBCAY5bJyrK6cn22H0wQ&usqp=CAU"
+    },
+    {
+      "areaId": 28,
+      "areaName": "Jamalpur",
+      "division": "Mymensingh",
+      "established": 1978,
+      "area": 2032,
+      "population": 2265,
+      "travelCost": 3500,
+      "flag": "https://www.theindependentbd.com/assets/news_images/potential-tourist.jpg"
+    },
+    {
+      "areaId": 29,
+      "areaName": "Mymensingh",
+      "division": "Mymensingh",
+      "established": 1787,
+      "area": 4363,
+      "population": 5042,
+      "travelCost": 3800,
+      "flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_7TmZ6KxyjZfGDKO167UxQ8YTnPmBXBpD3jJGwO0YvCfmXHbjfUWKCQJs9lb9m57naR4&usqp=CAU"
+    },
+    {
+      "areaId": 30,
+      "areaName": "Netrokona",
+      "division": "Mymensingh",
+      "established": 1984,
+      "area": 2810,
+      "population": 2207,
+      "travelCost": 3500,
+      "flag": "https://sgp1.digitaloceanspaces.com/cosmosgroup/news/7389120_birishiri-Durgapur-Netrokona-Bangladesh.jpg"
+    },
+    {
+      "areaId": 31,
+      "areaName": "Sherpur",
+      "division": "Mymensingh",
+      "established": 1984,
+      "area": 1364,
+      "population": 1334,
+      "travelCost": 3900,
+      "flag": "http://photos.wikimapia.org/p/00/03/48/92/90_big.jpg"
+    },
+    {
+      "areaId": 32,
+      "areaName": "Bogra",
+      "division": "Rajshahi",
+      "established": 1821,
+      "area": 2920,
+      "population": 3371,
+      "travelCost": 3000,
+      "flag": "https://i2.wp.com/www.alonelytraveler.com/wp-content/uploads/2010/06/gokul-medh-bogura-4.jpg?fit=800%2C600&ssl=1"
+    },
+    {
+      "areaId": 33,
+      "areaName": "Joypurhat",
+      "division": "Rajshahi",
+      "established": 1983,
+      "area": 965,
+      "population": 909,
+      "travelCost": 4200,
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Joypurhat_sugarmill_at_dusk.jpg"
+    },
+    {
+      "areaId": 34,
+      "areaName": "Naogaon",
+      "division": "Rajshahi",
+      "established": 1984,
+      "area": 3403,
+      "population": 1758,
+      "travelCost": 6000,
+      "flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5DpTyaPW5ud9Xzj90FT817AFn7wf0gRKumgyprBLledugOjxhdwkzaRXDwiWgf99m30Q&usqp=CAU"
+    },
+    {
+      "areaId": 35,
+      "areaName": "Narayanganj",
+      "division": "Dhaka",
+      "established": 1984,
+      "area": 700,
+      "population": 2897,
+      "travelCost": 500,
+      "flag": "https://media-cdn.tripadvisor.com/media/photo-s/0e/36/fb/70/il-fait-son-effet-quand.jpg"
+    },
+    {
+      "areaId": 36,
+      "areaName": "Chapainawabganj",
+      "division": "Rajshahi",
+      "established": 1984,
+      "area": 1703,
+      "population": 1635,
+      "travelCost": 7500,
+      "flag": "https://alchetron.com/cdn/chapai-nawabganj-district-f2b8f039-1675-4e6b-8c66-51bc56a0236-resize-750.jpeg"
+    },
+    {
+      "areaId": 37,
+      "areaName": "Pabna",
+      "division": "Rajshahi",
+      "established": 1832,
+      "area": 2372,
+      "population": 2297,
+      "travelCost": 6000,
+      "flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa-qkBEGWFTX5KL3gp2eVsWM7-L78wCFiGR7pwd5gkOdNa3-jsIOW5igYNwnv7YMWyrzc&usqp=CAU"
+    },
+    {
+      "areaId": 38,
+      "areaName": "Rajshahi",
+      "division": "Rajshahi",
+      "established": 1772,
+      "area": 2407,
+      "population": 2573,
+      "travelCost": 4000,
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Ruins_at_puthia.jpg"
+    },
+    {
+      "areaId": 39,
+      "areaName": "Sirajganj",
+      "division": "Rajshahi",
+      "established": 1984,
+      "area": 2498,
+      "population": 3072,
+      "travelCost": 2000,
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Jamuna_Shetu.jpg"
+    },
+    {
+      "areaId": 40,
+      "areaName": "Dinajpur",
+      "division": "Rangpur",
+      "established": 1786,
+      "area": 3438,
+      "population": 2970,
+      "travelCost": 4500,
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/1/12/Noyabaad_Mosque_%286%29.jpg"
+    },
+    {
+      "areaId": 41,
+      "areaName": "Gaibandha ",
+      "division": "Rangpur",
+      "established": 1984,
+      "area": 2179,
+      "population": 2349,
+      "travelCost": 2500,
+      "flag": "https://i.ytimg.com/vi/OchdKVERl1A/maxresdefault.jpg"
+    },
+    {
+      "areaId": 42,
+      "areaName": "Comilla",
+      "division": "Chittagong",
+      "established": 1790,
+      "area": 3085,
+      "population": 5304,
+      "travelCost": 1500,
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Guthiya_mosque_Ri_palash_03.jpg/1200px-Guthiya_mosque_Ri_palash_03.jpg"
+    },
+    {
+      "areaId": 43,
+      "areaName": "Kurigram",
+      "division": "Chittagong",
+      "established": 1984,
+      "area": 2492,
+      "population": 2275,
+      "travelCost": 5500,
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/8/89/Kash_at_the_char_of_Dharla_river.jpg"
+    },
+    {
+      "areaId": 44,
+      "areaName": "Lalmonirhat",
+      "division": "Rangpur",
+      "established": 1984,
+      "area": 1241,
+      "population": 1249,
+      "travelCost": 7500,
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Tista-bridge-lalmonirhat.jpg"
+    },
+    {
+      "areaId": 45,
+      "areaName": "Nilphamari",
+      "division": "Rangpur",
+      "established": 1984,
+      "area": 1580,
+      "population": 1820,
+      "travelCost": 4500,
+      "flag": "https://touristplace.bangladeshinformation.info/wp-content/uploads/sites/7/2018/11/nilfamari.jpg"
+    },
+    {
+      "areaId": 46,
+      "areaName": "Panchagarh",
+      "division": "Rangpur",
+      "established": 1984,
+      "area": 1405,
+      "population": 981,
+      "travelCost": 2800,
+      "flag": "https://www.daily-sun.com/assets/news_images/2020/10/30/Ds--20-10-30-18.jpg"
+    },
+    {
+      "areaId": 47,
+      "areaName": "Rangpur",
+      "division": "Rangpur",
+      "established": 1772,
+      "area": 2368,
+      "population": 2866,
+      "travelCost": 8000,
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b7/ZPBuildingRangpur.jpg"
+    },
+    {
+      "areaId": 48,
+      "areaName": "Thakurgaon",
+      "division": "Rangpur",
+      "established": 1984,
+      "area": 1810,
+      "population": 1380,
+      "travelCost": 8500,
+      "flag": "https://www.localguidesconnect.com/t5/image/serverpage/image-id/394837iCE8D78AF15C91EE0/image-size/large?v=v2&px=999"
+    },
+    {
+      "areaId": 49,
+      "areaName": "Habiganj",
+      "division": "Sylhet",
+      "established": 1984,
+      "area": 2637,
+      "population": 2059,
+      "travelCost": 1500,
+      "flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb2ofzR-7fU9kr_iA0CRlVap3fbEFDhk7owxjXyakOzBJ9VVrFxYjiR0Hg5JJ3gfN96jE&usqp=CAU"
+    },
+    {
+      "areaId": 50,
+      "areaName": "Moulvibazar",
+      "division": "Sylhet",
+      "established": 1984,
+      "area": 2799,
+      "population": 1902,
+      "travelCost": 5500,
+      "flag": "http://chokkor.com/wp-content/uploads/2019/02/Sreemangal-2.jpg"
+    },
+    {
+      "areaId": 51,
+      "areaName": "Sunamganj ",
+      "division": "Sylhet",
+      "established": 1984,
+      "area": 3670,
+      "population": 2443,
+      "travelCost": 2000,
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/7/73/Tangua_Haor.jpg"
+    },
+    {
+      "areaId": 52,
+      "areaName": "Sylhet",
+      "division": "Sylhet",
+      "established": 1782,
+      "area": 3490,
+      "population": 3404,
+      "travelCost": 6500,
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Garden_city_Building%2C_Sylhet.jpg"
+    }
+  ]

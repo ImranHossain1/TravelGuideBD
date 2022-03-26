@@ -1,0 +1,11 @@
+.gradient {
+    background-image: linear-gradient(to right, rgb(156, 245, 163), rgb(231, 163, 151),rgb(173, 255, 179));
+  }
+  img{
+      width: 100px;
+      height: 50px;
+      margin: 5px;
+  }
+  .font-color{
+      color: rgb(1, 24, 1);
+  }

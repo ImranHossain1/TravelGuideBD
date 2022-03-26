@@ -1,0 +1,41 @@
+.district-container{
+    width: 18rem;
+    background-color: rgb(251, 245, 255);
+}
+.district-container img{
+    width: 500px;
+    height: 150px;
+}
+.card-body button:hover{
+    background-color: red;
+    
+}
+.card-body button:hover .icons{
+    color: rgb(71, 231, 71);
+}
+.background{
+    background-image: linear-gradient(to right, rgb(156, 245, 163), rgb(231, 163, 151),rgb(173, 255, 179));;
+}
+
+.train-icon{
+    color: goldenrod;
+}
+.fab{
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.fa-facebook-square:hover{
+    color: #3b5998;
+}
+.fa-instagram:hover{
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    -webkit-background-clip: text;
+            /* Also define standard property for compatibility */
+            background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+.fa-twitter:hover{
+    color: #1DA1F2;
+}
