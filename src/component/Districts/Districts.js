@@ -15,7 +15,7 @@ const Districts = () => {
     },[]);
 
     useEffect(()=>{
-        console.log("Call Local storage");
+        //console.log("Call Local storage");
         if(districts.length){
             const savedDb= getStoredCart();
             const savedDistricts = [];
@@ -23,7 +23,7 @@ const Districts = () => {
                 //console.log(typeof(districtId));
                 const travelDist = districts.find(td => td.areaId ===  parseInt(districtId) );
                 const quantity = savedDb[parseInt(districtId)];
-                console.log(quantity,districtId);
+                //console.log(quantity,districtId);
                 travelDist.quantity = quantity;
                 savedDistricts.push(travelDist);
                 // console.log(districtId, travelDist);
@@ -34,8 +34,18 @@ const Districts = () => {
 
     //Handle button click
     const handleAddToCart = district =>{
-        const newTravelCart = [...travelCart, district];
-        setTravelCart(newTravelCart); //set data from child component
+        const exists= travelCart.find(tc=>tc.areaId === district.areaId);
+        let newCart =[];
+        if(exists){
+            const rest = travelCart.filter(tc=>tc.areaId !== district.areaId);
+            exists.quantity = exists.quantity+1;
+            newCart = [...rest, district];
+        }
+        else{
+            district.quantity = 1;
+            newCart = [...travelCart, district];
+        }
+        setTravelCart(newCart); //set data from child component
         addToDb(district.areaId);
         //console.log(district);
     }
